@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="Starting Snake Game">
+    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="Snake body created">
+      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -118,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758813610097</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Snake body created">
+      <option name="closed" value="true" />
+      <created>1758822587467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758822587467</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting Snake Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting Snake Game" />
+    <MESSAGE value="Snake body created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snake body created" />
   </component>
 </project>
