@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="Final commit, project is ready">
+    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="High score implemented. However there is not an error with the wall  collision">
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/ishigami/PycharmProjects/SnakeGame"
+    "last_opened_file_path": "/home/ishigami/PycharmProjects/ExercíciosPython"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758834311146</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="High score implemented. However there is not an error with the wall  collision">
+      <option name="closed" value="true" />
+      <created>1759402517174</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759402517174</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +218,7 @@
     <MESSAGE value="Food mechanics implemented" />
     <MESSAGE value="Border implemented" />
     <MESSAGE value="Final commit, project is ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final commit, project is ready" />
+    <MESSAGE value="High score implemented. However there is not an error with the wall  collision" />
+    <option name="LAST_COMMIT_MESSAGE" value="High score implemented. However there is not an error with the wall  collision" />
   </component>
 </project>

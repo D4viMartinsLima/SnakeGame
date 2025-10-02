@@ -38,6 +38,7 @@ while gameIsOn:
     #Wall detection
     if snake.head.xcor() > 280 or snake.head.xcor() < -280 or snake.head.ycor() > 280 or snake.head.ycor() < -280:
          scoreboard.reset()
+         snake.reset()
 
     #Colision with Tail
     for segment in snake.segments:
