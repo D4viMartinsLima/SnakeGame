@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="Border implemented">
+    <list default="true" id="f85bb2d3-029b-4c0c-a261-38f44154625c" name="Changes" comment="Final commit, project is ready">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +56,14 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/ishigami/PycharmProjects/SnakeGame"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
+        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
@@ -161,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758833618363</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Final commit, project is ready">
+      <option name="closed" value="true" />
+      <created>1758834311146</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758834311146</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +209,7 @@
     <MESSAGE value="Event Listeners added!" />
     <MESSAGE value="Food mechanics implemented" />
     <MESSAGE value="Border implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Border implemented" />
+    <MESSAGE value="Final commit, project is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit, project is ready" />
   </component>
 </project>
